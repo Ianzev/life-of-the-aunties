@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\tests\\Codecool.LifeOfAnts.UnitTests\\Codecool.LifeOfAnts.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\src\\Codecool.LifeOfAnts\\Codecool.LifeOfAnts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\src\\Codecool.LifeOfAnts\\Codecool.LifeOfAnts.csproj",
+        "projectName": "Codecool.LifeOfAnts",
+        "projectPath": "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\src\\Codecool.LifeOfAnts\\Codecool.LifeOfAnts.csproj",
+        "packagesPath": "C:\\Users\\ianze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\src\\Codecool.LifeOfAnts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ianze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\tests\\Codecool.LifeOfAnts.UnitTests\\Codecool.LifeOfAnts.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\tests\\Codecool.LifeOfAnts.UnitTests\\Codecool.LifeOfAnts.UnitTests.csproj",
+        "projectName": "Codecool.LifeOfAnts.UnitTests",
+        "projectPath": "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\tests\\Codecool.LifeOfAnts.UnitTests\\Codecool.LifeOfAnts.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\ianze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\tests\\Codecool.LifeOfAnts.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ianze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\src\\Codecool.LifeOfAnts\\Codecool.LifeOfAnts.csproj": {
+                "projectPath": "C:\\Users\\ianze\\Source\\Repos\\life-of-the-ants-csharp-Ianzev\\src\\Codecool.LifeOfAnts\\Codecool.LifeOfAnts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
